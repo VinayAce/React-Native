@@ -1,6 +1,6 @@
 # React Native Sample App
 
-This is the sample code from the React native crash course
+This is the sample code from the React native.
 
 ### Version
 1.0.0
